@@ -1,0 +1,21 @@
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\bin\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.exe.config
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\bin\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.exe
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\bin\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.pdb
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\bin\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.xml
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.vbprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto_P2___SPEED_OF_LIGHT_INFORMATICA.Resources.resources
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.vbproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.vbproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.exe
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.xml
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.pdb
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto_P2___SPEED_OF_LIGHT_INFORMATICA.Frm_menu.resources
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto_P2___SPEED_OF_LIGHT_INFORMATICA.Frm_CadastroClientes.resources
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto_P2___SPEED_OF_LIGHT_INFORMATICA.Frm_Caixa.resources
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto_P2___SPEED_OF_LIGHT_INFORMATICA.Frm_Estoque.resources
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto_P2___SPEED_OF_LIGHT_INFORMATICA.Frm_Login.resources
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto_P2___SPEED_OF_LIGHT_INFORMATICA.Frm_ListaClientes.resources
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto_P2___SPEED_OF_LIGHT_INFORMATICA.Frm_CadastroContas.resources
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto_P2___SPEED_OF_LIGHT_INFORMATICA.Frm_ListaContas.resources
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Interop.ADODB.dll
+C:\Users\Rafael\Desktop\Projeto de sistema P2\Projeto P2 - SPEED OF LIGHT INFORMATICA\Projeto P2 - SPEED OF LIGHT INFORMATICA\obj\Debug\Projeto P2 - SPEED OF LIGHT INFORMATICA.vbproj.ResolveComReference.cache
